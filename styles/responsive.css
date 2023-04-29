@@ -1,0 +1,16 @@
+
+
+@media (min-width: 320px) and (max-width: 500px){
+    .sectionn{
+        display: none;
+    }
+    .header{
+        display: none;
+    }
+    .sectionn2{
+        display:contents;
+    }
+    .footer{
+        display: inline-block;
+    }
+}
